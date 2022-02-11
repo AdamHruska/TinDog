@@ -27,7 +27,7 @@ h2{
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 /* navigation bar */
@@ -62,14 +62,18 @@ h2{
 .title-image{
   width: 60%;
    transform: rotate(20deg);
+   position: absolute;
+   right: 30%;
 }
 
 /* features section */
 
 #features{
   text-align: center;
-
   padding: 7% 12%;
+  background-color: white;
+  position: relative;
+
 }
 
 .font-wight-light{
